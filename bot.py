@@ -35,7 +35,7 @@ async def send_weekly(context: ContextTypes.DEFAULT_TYPE):
     text = (
         "📢 Colaboración entre comunidades\n\n"
         "Únete a nuestro grupo:\n"
-        "👉 https://t.me/TU_GRUPO"
+        "👉 https://t.me/+rrpTFx_84SQ2YTVk"
     )
 
     for chat_id in data.keys():
